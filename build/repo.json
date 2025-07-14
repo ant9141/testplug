@@ -1,0 +1,8 @@
+{
+  "name": "<repository name>",
+  "description": "<repository description>",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://github.com/ant9141/testplug/blob/main/build/plugins.json"
+  ]
+}
